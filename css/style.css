@@ -70,6 +70,8 @@
 	background-image: url("../images/bg.webp");
 	background-size: cover;
 	background-position: center;
+
+	text-shadow: 0 0 2px white;
 	
 	color:#1a1a1a;
 	font-family:"Open Sans",system-ui;
