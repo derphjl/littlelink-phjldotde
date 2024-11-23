@@ -514,6 +514,12 @@
 	--button-border:1px solid #FFFFFF;
 }
 
+/* Trawelling */
+.button-traewelling {
+	--button-text:#ffffff;
+	--button-background:#B81225;
+}
+
 /* Trello */
 .button-trello {
 	--button-text:#ffffff;
